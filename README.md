@@ -1,6 +1,12 @@
 <h2 align="left">Hi 👋! My name is Levente!</h2>
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Levente0324&theme=aura&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Levente0324&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 ###
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/leventedukay) 
 
 <br clear="both">
 

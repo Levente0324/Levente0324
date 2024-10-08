@@ -1,11 +1,6 @@
 <h2 align="left">Hi 👋! My name is Levente!</h2>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Levente0324&theme=aura&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Levente0324&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-# as
-
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Levente0324&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Levente0324&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=false" height="150" alt="languages graph"  />

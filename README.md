@@ -1,6 +1,6 @@
 # <h2 align="left">Hi! My name is Levente!👋</h2>
 
-# ⭐️💫✨ About me:
+# ✨ About me:
 <p>I'm a 21-year-old university student based in Hungary. I have been studying web development and design for 6+ years, alongside a growing interest in software engineering. I'm actively looking for opportunities to grow and apply my skills in real-world projects.</p>
 
 # 💻 Tech Stack:
